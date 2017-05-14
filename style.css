@@ -1,5 +1,5 @@
 body{
-background-image: url("http://static.tumblr.com/78e129a780fc1c8c2c40e6e0f0a14b3a/x7xrsuu/GXComo0jn/tumblr_static_a8xgutxt2dk44ggw8sosc4kkg.jpg");
+background-image: url("https://www.xmple.com/wallpaper/white-blue-stripes-streaks-lines-1440x1440-c2-ffffff-add8e6-l2-74-74-a-0-f-1.svg");
 }
 h1{
   font-family: 'tahoma', sans-serif;
@@ -9,17 +9,21 @@ h1{
 h2{
   font-family: 'Raleway', sans-serif;
   font-size: 28px;
+  font-weight: 500;
   color: midnightblue;
   text-transform: uppercase;
 }
 p{
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
+  font-weight: 150;
   color: darkblue;
 }
 a{
   color: #214E34;
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
+  font-weight: 250;
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
