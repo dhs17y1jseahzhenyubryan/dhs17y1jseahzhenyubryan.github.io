@@ -1,3 +1,25 @@
 body{
 background-image: url("http://static.tumblr.com/78e129a780fc1c8c2c40e6e0f0a14b3a/x7xrsuu/GXComo0jn/tumblr_static_a8xgutxt2dk44ggw8sosc4kkg.jpg");
 }
+h1{
+  font-family: 'tahoma', sans-serif;
+  font-size: 50px;
+  color: midnightblue;
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  color: midnightblue;
+  text-transform: uppercase;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: darkblue;
+}
+a{
+  color: #214E34;
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+  text-transform: uppercase;
+}
